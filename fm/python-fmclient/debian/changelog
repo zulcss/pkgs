@@ -1,0 +1,11 @@
+python-fmclient (1.0-1.stx.2) bullseye; urgency=medium
+
+  * stx-debian 6.0 distribution
+
+ -- STX Builder <stx.builder@opendev.org>  Fri, 06 May 2022 21:11:35 +0000
+
+python-fmclient (1.0-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Chuck Short <charles.short@windriver.com>  Wed, 18 Aug 2021 14:41:40 -0400
